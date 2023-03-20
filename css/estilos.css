@@ -13,7 +13,7 @@
 .imagen{
     width: 49%;
     margin: 20px;
-    height: 1000px;
+    height: 700px;
     display: block;
     background-color: #000;
 }
@@ -57,4 +57,18 @@ button:hover{
     color: #fff;
     background-color: #000;
     transition: 1s;
+}
+
+footer{
+    background-color: lightgreen;
+    padding: 20px;
+}
+
+footer p{
+    text-align: center;
+}
+
+a{
+    text-decoration: none;
+    color: #000;
 }
